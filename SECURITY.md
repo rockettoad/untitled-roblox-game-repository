@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-COMING SOON
+COMING SOON 🔜
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -13,4 +13,4 @@ COMING SOON
 
 ## Reporting a Vulnerability
 
-COMING SOON
+COMING SOON 🔜
