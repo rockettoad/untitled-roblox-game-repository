@@ -8,7 +8,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        package:
+        package: 
           - '..'
           - eslint-config-airbnb
           - eslint-config-airbnb-base
